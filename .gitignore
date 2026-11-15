@@ -1,0 +1,25 @@
+# Datasets (downloaded by torchvision)
+data/
+*.tar.gz
+
+# Model checkpoints and large outputs
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Office lock files
+~$*
