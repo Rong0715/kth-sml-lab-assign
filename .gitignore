@@ -23,3 +23,9 @@ venv/
 
 # Office lock files
 ~$*
+
+# Smoke-test artifacts (pipeline checks only)
+artifacts/smoke/
+
+# Full draft kept aside while we go task by task
+drafts/
